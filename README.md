@@ -91,8 +91,7 @@ I’m a good fit if you are:
 
 If you’re building a Solana / DePIN project and need help with tokenomics, tokenization, or Solana infra:
 
-- **Email:** `your-email@example.com`
-- **Telegram / X (Twitter):** `@yourhandle`
+- https://www.linkedin.com/in/ashish-homkar-091320173/
 - Or open an **Issue** / **Discussion** in this repo with some basic project details.
 
 Let’s build **tokens that actually work** — for users, communities, and the long term.
